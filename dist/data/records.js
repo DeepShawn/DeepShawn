@@ -5,7 +5,7 @@ window.EXAM_RECORDS = [
     subject: "数学",
     date: "2026-09",
     label: "9月月考",
-    exam: "高一数学试卷",
+    exam: "高二数学试卷",
     score: 112,
     max: 150,
     strengths: "单选基础；统计应用；常规空间证明；第17题立体几何",
